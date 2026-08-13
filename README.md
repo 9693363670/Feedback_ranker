@@ -1,3 +1,8 @@
+# Click this Link to open the app
+
+https://feedbackranker-cnrs3vrzwngghhsxzct5ha.streamlit.app/
+
+
 # Feedback Ranker
 
 A Python-based feedback analysis and ranking system that processes customer feedback, analyzes sentiment, handles emojis, and generates ranked Excel reports.
